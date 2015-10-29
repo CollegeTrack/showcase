@@ -1,0 +1,59 @@
+.top-bar {
+  background-color: #01b3ef;
+}
+
+.row.wide {
+  max-width: 100%;
+}
+
+.banner {
+  background-color: #ffffff;
+  height: 20%;
+}
+
+.banner p {
+  text-align: right;
+  font-size: 125%;
+  padding-top: 25px;
+}
+
+.banner img {
+  padding: 10px;
+}
+
+.page_link {
+  border: 5px solid #01b3ef;
+}
+
+.banner1 {
+  background-color: #92bb3a;
+  height: 10%;
+}
+
+.banner1 p {
+  text-align: right;
+  color: #ffffff;
+  font-size: 175%;
+  padding-top: 8px;
+}
+
+.title {
+  text-align: right;
+  font-size: 175%;
+}
+
+a {
+  color: #01b3ef;
+}
+
+a > h4 {
+  color: #01b3ef;
+}
+
+a:hover {
+  color: #000000;
+}
+
+a:hover > h4 {
+  color: #000000;
+}
