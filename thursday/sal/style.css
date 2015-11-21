@@ -1,0 +1,34 @@
+body {
+  background-color: white;
+  color: blue;
+  font-size: 20px;
+}
+
+#navbar {
+  background-color: white;
+  color: blue;
+}
+
+#banner {
+  background-color: white;
+  color: blue;
+}
+
+#content {
+  background-color: white;
+  color: blue;
+}
+
+#right {
+  float: right;
+  width: 50%;
+}
+
+#footer {
+  background-color: white;
+  color: blue;
+}
+
+img {
+  padding: 50px;
+}
