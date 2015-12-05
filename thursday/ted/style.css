@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: ff3200;
   color: blue;
   font-size: 20px;
 }
@@ -15,7 +15,12 @@ body {
 }
 
 #content {
-  background-color: white;
+  background-color: #00e600;
+  color: blue;
+}
+
+#content1 {
+  background-color: red;
   color: blue;
 }
 

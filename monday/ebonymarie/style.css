@@ -1,0 +1,36 @@
+body {
+  background-color: purple;
+  color: white;
+  font-size: 30px;
+  font-family: "Cambria";
+}
+
+#navbar {
+  background-color: #f8008c;
+  color: #04c;
+  font-size: 20px;
+  font-family: "Bookman Old Style";
+}
+
+#banner {
+  background-color: #937CF2;
+  color: #cc0099;
+  text-align: middle;
+  font-size: 50px;
+  font-family: "Helvetica";
+}
+
+#content {
+  background-color: #e46df0;
+  color: #820090;
+  font-size: 30px;
+  font-family: "Cambria";
+}
+
+#footer {
+  background-color: #000000;
+  color: #ffffff;
+  text-align: right;
+  font-size: 20px;
+  font-family: "Bookman Old Style";
+}
