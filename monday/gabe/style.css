@@ -23,7 +23,11 @@ body {
 
 #content {
   background-color: tan;
-  color: #cc0099;
+  background-image: url("./images/gabe_baseball.gif");
+  background-repeat: no-repeat;
+  opacity: 0.8;
+  color: #ffffff;
+  height: 860px;
   font-size: 30px;
   font-family: "Cambria";
 }

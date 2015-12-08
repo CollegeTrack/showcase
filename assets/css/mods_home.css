@@ -57,3 +57,7 @@ a:hover {
 a:hover > h4 {
   color: #000000;
 }
+
+.banner-link {
+  color: #ffffff;
+}
