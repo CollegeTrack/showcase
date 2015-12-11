@@ -14,6 +14,7 @@ body {
 
 #banner {
   background-color: #00ff00;
+  background-image: url("./images/NBA-Map-2012.png");
   color: #cc0099;
   text-align: center;
   font-size: 30px;
@@ -21,7 +22,6 @@ body {
 }
 
 #content {
-  background-image: "./images/NBA-Map-2012.png";
   background-color: #fff234;
   color: #cc0099;
   font-size: 30px;
